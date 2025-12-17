@@ -1,0 +1,9 @@
+{
+    "filtres": {},
+    "whiteList": {
+        "MACs": [],
+        "IPs": [],
+        "PORTs": [],
+        "OIDs": []
+    }
+}
